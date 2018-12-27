@@ -9,7 +9,7 @@ namespace Practice
     class Program
     {
         static void Main(string[] args) {
-            Practice3.pra3_13.test();
+            Practice3.pra3_14.test();
             Console.ReadLine();
         }
     }
