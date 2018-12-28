@@ -65,6 +65,11 @@
     <Compile Include="Practice3\pra3_7.cs" />
     <Compile Include="Practice3\pra3_8.cs" />
     <Compile Include="Practice3\pra3_9.cs" />
+    <Compile Include="Practice4\pra4_1.cs" />
+    <Compile Include="Practice4\pra4_2.cs" />
+    <Compile Include="Practice4\pra4_3.cs" />
+    <Compile Include="Practice4\pra4_4.cs" />
+    <Compile Include="Practice4\pra4_5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

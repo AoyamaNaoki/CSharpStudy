@@ -17,7 +17,7 @@ namespace Practice.Practice3
             }else if(num1 > num2){
                 Console.WriteLine("num1のほうが大きいです");
             }else if(num1 < num2){
-                Console.WriteLine("nume2のほうが大きいです");
+                Console.WriteLine("num2のほうが大きいです");
             }else{
                 Console.WriteLine("等しいです");
             }
